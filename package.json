@@ -1,5 +1,5 @@
 {
-  "name": "FengJiaQi/umi-request",
+  "name": "fengjiaqi-umi-request",
   "version": "1.4.0",
   "description": "A request tool based on fetch.",
   "main": "dist/index.js",
